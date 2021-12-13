@@ -1,5 +1,5 @@
 - 🤟🏻 Hi, I’m <strong>Denis Callau</strong>
-- 👀 I’m a <strong>Java Developer</strong>, currently working for a logistics solutions company in Brazil :brazil:
+- 👀 I’m a <strong>Java Developer</strong>, currently working in Portugal 🇵🇹
 - 🌱 My main study focus at the moment is <strong>Spring</strong>
 - ✉ How to reach me: denis.callau@gmail.com and https://www.linkedin.com/in/deniscallau/
 
