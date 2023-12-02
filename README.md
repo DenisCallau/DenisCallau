@@ -1,6 +1,5 @@
 - 🤟🏻 Hi, I’m <strong>Denis Callau</strong>
-- 👀 I’m a <strong>Java Developer</strong>, currently working in Portugal 🇵🇹
-- 🌱 My main study focus at the moment is <strong>Spring</strong>
+- 👀 I’m a <strong>Software Engineer</strong>, currently based in Portugal 🇵🇹
 - ✉ How to reach me: denis.callau@gmail.com and https://www.linkedin.com/in/deniscallau/
 
 <!---
